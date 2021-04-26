@@ -43,7 +43,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="100" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="100" height="60"/> 
-  <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" alt="mysql" width="100" height="60"/> 
+  <img src="https://aidanfinn.com/wp-content/uploads/2017/09/SQL-Server-Logo.png" alt="mysql" width="100" height="60"/> 
   
 🧐 **Knowledge of:**<br>
   
