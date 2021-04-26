@@ -28,6 +28,10 @@ https://simpleicons.org/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/> 
 
 
+🧐 **Knowledge of:**<br>
+  
+`Data structures and algorithms`,`Object-Oriented Programming`, `SOLID Principles`,`Design Pattern`,`RESTful web service`,`REST API Design`,`AJAX`,`Retrofit`,`JSON Web Token`,...
+
 💻 **Libraries & Frameworks**: <br>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
@@ -55,9 +59,6 @@ https://simpleicons.org/
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="100" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="100" height="60"/> 
   
-🧐 **Knowledge of:**<br>
-  
-`Data structures and algorithms`,`Object-Oriented Programming`, `SOLID Principles`,`Design Pattern`,`RESTful web service`,`REST API Design`,`AJAX`,`Retrofit`,`JSON Web Token`,...
 
 
 <!-- ✅  **GitHub Extra Pins**
