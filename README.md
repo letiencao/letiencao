@@ -35,7 +35,7 @@ https://simpleicons.org/
    <img src="https://www.javaindia.in/blog/wp-content/uploads/2020/09/java-web-development.png" alt="javaweb" width="200" height="100"/>
 
  <p align="left"> 
-   <img width="5"><strong>Server-side</strong><img width="50"><strong>Desktop Application</strong><img width="40"><strong>Mobile Android Application</strong><img width="40"><strong>Web Application</strong>
+   <img width="10"><strong>Server-side</strong><img width="60"><strong>Desktop Application</strong><img width="50"><strong>Mobile Android Application</strong><img width="60"><strong>Web Application</strong>
 
 
   
