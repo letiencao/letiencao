@@ -31,7 +31,7 @@ https://simpleicons.org/
 <p align="left"> 
  <img src="https://i.pinimg.com/originals/ec/be/4b/ecbe4b1deef8e7582f0959b1559e729f.png" alt="j2ee"  width="100" height="120"/><img width="30"/>
  <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" alt="javafx" width="160" height="80"/> <img width="30"/>
- <img src="http://starbeamrainbowlabs.com/blog/images/20180326-java-android-banner.png" alt="javaandroid" width="160" height="80"/>
+ <img src="http://starbeamrainbowlabs.com/blog/images/20180326-java-android-banner.png" alt="javaandroid" width="160" height="80"/><img width="30"/>
    <img src="https://www.javaindia.in/blog/wp-content/uploads/2020/09/java-web-development.png" alt="javaweb" width="200" height="100"/>
 
  <p align="left"> 
