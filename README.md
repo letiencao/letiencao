@@ -27,7 +27,17 @@ https://simpleicons.org/
  🤓 **Interested:** <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/> 
 
+🧐 **Platforms have been doing:**<br>
+<p align="left"> 
+ <img src="https://i.pinimg.com/originals/ec/be/4b/ecbe4b1deef8e7582f0959b1559e729f.png" alt="j2ee"  width="100" height="120"/><img width="30"/>
+ <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" alt="javafx" width="160" height="80"/> <img width="30"/>
+ <img src="http://starbeamrainbowlabs.com/blog/images/20180326-java-android-banner.png" alt="javaandroid" width="160" height="80"/> <img width="30"/>
+ <p align="left"> 
+   <img width="5"><strong>Server-side</strong><img width="50"><strong>Desktop Application</strong><img width="40"><strong>Mobile Android Application</strong>
 
+
+  
+  
 🧐 **Knowledge of:**<br>
   
 `Data structures and algorithms`,`Object-Oriented Programming`, `SOLID Principles`,`Design Pattern`,`RESTful web service`,`REST API Design`,`AJAX`,`Retrofit`,`JSON Web Token`,...
@@ -36,7 +46,6 @@ https://simpleicons.org/
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/> 
-
 
 🛠️ **Tools**: <br>
 <p align="left"> 
