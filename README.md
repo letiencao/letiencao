@@ -39,10 +39,10 @@ https://simpleicons.org/
 
   
   
-🧐 **Knowledge of:**<br>
+<!-- 🧐 **Knowledge of:**<br>
   
 `Data structures and algorithms`,`Object-Oriented Programming`, `SOLID Principles`,`Design Pattern`,`RESTful web service`,`REST API Design`,`AJAX`,`Retrofit`,`JSON Web Token`,...
-
+ -->
 💻 **Libraries & Frameworks**: <br>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
