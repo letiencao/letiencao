@@ -48,7 +48,7 @@ https://simpleicons.org/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/> 
 
-🛠️ **Tools**: <br>
+<!-- 🛠️ **Tools**: <br>
 <p align="left"> 
   <img src="https://icon-library.com/images/dev-icon/dev-icon-13.jpg" alt="devC++" width="60" height="60"/>
   <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" alt="visualcode" width="120" height="60"/> 
@@ -70,7 +70,7 @@ https://simpleicons.org/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="100" height="60"/> 
   
 
-
+ -->
 <!-- ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
