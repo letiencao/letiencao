@@ -25,6 +25,8 @@ https://simpleicons.org/
   
  🤓 **Interested:** <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="80" height="80"/>
+  
 
 <!--🧐 **Platforms have been doing:**<br>
 <p align="left"> 
